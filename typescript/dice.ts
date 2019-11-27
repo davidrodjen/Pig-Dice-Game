@@ -104,6 +104,7 @@ function rollDie():void{
     
 }
 
+
 function holdDie():void{
     //get the current turn total
     let currTotal = parseInt((<HTMLInputElement>document.getElementById("total")).value);
